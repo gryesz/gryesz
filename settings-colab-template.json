@@ -1,0 +1,28 @@
+{
+    "max_new_tokens": 512,
+    "dark_theme": true
+    "preset": "default"
+    "prompt": "Instruct-WizardLM"
+    "chat_style": "cai-chat",
+    "seed": -1,
+    "turn_template": '',
+    "max_new_tokens_min": 1,
+    "max_new_tokens_max": 2048,
+    "truncation_length": 2048
+    "truncation_length_min": 0
+    "truncation_length_max": 16384
+    "name1": "You",
+    "name2": "Assistant",
+    "context": "This is a conversation with your Assistant. The Assistant is very helpful and is eager to chat with you and answer your questions.",
+    "stop_at_newline": false,
+    "chat_prompt_size": 8192,
+    "chat_prompt_size_min": 0,
+    "chat_prompt_size_max": 8192,
+    "chat_generation_attempts": 1,
+    "chat_generation_attempts_min": 1,
+    "chat_generation_attempts_max": 3,
+    "default_extensions": [],
+    "chat_default_extensions": [
+        "gallery"
+    ],
+}
