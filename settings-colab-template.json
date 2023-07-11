@@ -1,8 +1,8 @@
 {
     "max_new_tokens": 512,
-    "dark_theme": true
-    "preset": "default"
-    "prompt": "QA"
+    "dark_theme": true,
+    "preset": "default",
+    "prompt": "QA",
     "chat_style": "cai-chat",
     "seed": -1,
     "turn_template": "",
